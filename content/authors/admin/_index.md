@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Candidate in Economics
+role: ""
 avatar_filename: null
 bio: My research interests include labor economics, human capital, migration.
 interests:
